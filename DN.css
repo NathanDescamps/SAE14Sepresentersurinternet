@@ -1,0 +1,268 @@
+article{
+	flex-basis:30%;
+}
+
+
+
+body {
+	font-family: Trattatello;                  
+	 background: url(biblio/fond1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-size: cover ;
+	margin-left:0%;
+	}
+
+header {
+	flex-basis:95%;
+	width: 98%;
+	height: 1.75%;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+}
+
+.titre{
+	font-size:250%;
+	text-align:center;
+	margin-top: -8px;
+}
+
+.liens {
+	display: flex;
+	justify-content: space-around;
+}
+
+.liens a {
+	background-color: #800080;
+	width: calc(100% / 4 - 30px);
+	box-sizing: border-box;
+	border: 2px solid black;
+	text-align:center;
+}
+
+.dessin{ 
+   font-family: Trattatello;
+   width : 75%;
+   height: 50%;
+   float: right;
+   text-align:center;
+   padding-top:50px;
+   padding-right: 30%;
+   font-weight:bold;
+   font-size:450%;
+   color: WhiteSmoke;
+   text-shadow: #800080 10px 10px, #800080 -1px 1px, #800080 -1px -1px, #800080 1px -1px;
+}
+
+	
+
+.art2 {
+	text-align:center;
+}
+
+.art1 {
+	flex-basis:45%;
+	width: 800px;
+	height: 450px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	padding-right:2%;
+	padding-left:2%;
+	background-color:rgba(255, 255, 255, 0.65);
+	font-size: 140%;
+}
+
+
+
+
+.art1 p{ 
+margin-top:60px;
+}
+
+
+.art3 {
+	flex-basis:35%;
+    height:325px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+}
+
+.art3txt {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+	
+.art3txt p {
+	font-size: 22px;
+}
+
+
+
+.art5 {
+	flex-basis:55%;
+    height:550px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+}
+
+
+
+
+
+
+
+
+h2{
+	font-family: Trattatello;
+	font-size:160%;
+	text-align:center;
+}
+
+h3{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+}
+
+h3 a{ 
+color: black;
+}
+
+
+h5{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+}
+
+
+
+#masection {
+	display:flex;
+justify-content:space-around
+}
+
+header{
+	margin:0;
+	padding: 20px;
+}
+
+#masection2 {
+display:flex;
+justify-content:space-around
+}
+
+
+
+
+#masection3 {
+display:flex;
+justify-content:space-around
+}
+
+
+.mainfooter{
+	flex-basis:95%;
+	height:100px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+    justify-content:space-around;
+}
+
+
+#miseenpageglobale{
+	 width: 90%;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 3px 4px;
+    margin-top: 5%;
+	margin-left: -8%;
+	font-size:20px;
+}
+
+
+
+
+
+#miseenpagediverse {
+	margin-left: 15%;
+}
+
+.expart {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+.expart1 {	
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+
+
+#projets {
+	flex-basis:35%;
+    height:410px;
+	width:1000px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(8,13,112,0.60);
+	float: right;
+	margin-top: 8%;
+	margin-right:140px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+}
+
+
+.proj {
+	text-align:center;
+	font-size: 2.5em;
+	
+}
+
+
+#photos {
+	font-size: 2em;
+}
+
+
+.retourpage{
+	height:50px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.60);
+	background-color:rgba(255, 255, 255, 0.65);
+    justify-content:space-around;
+}
+
+
+
+
+.mainfooter {
+	text-align: center;
+	font-size: 4em;
+}
+
