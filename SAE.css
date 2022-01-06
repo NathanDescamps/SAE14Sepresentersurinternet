@@ -1,0 +1,341 @@
+
+#transition1 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-image:url(biblio/fond.jpg);
+}
+
+#transition2 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-image:url(biblio/fond.jpg);
+}
+
+#transition3 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-image:url(biblio/fond.jpg);
+}
+
+#transition4 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-image:url(biblio/fond.jpg);
+}
+
+
+
+
+#link {
+  display : block;
+  width:100%;
+  height:600px;
+}
+
+
+article{
+	flex-basis:30%;
+}
+
+
+
+body {
+	font-family: Trattatello;
+	background-size: cover ;
+	margin:150px;
+	margin-top:0px;
+	margin-bottom:0px;
+	background-image:url(biblio/fondprincip.jpg);
+}
+
+
+.art2 {
+	text-align:center;
+	font-family: 'Mina', sans-serif;
+}
+
+.art1 {
+	flex-basis:100%;
+	width: 800px;
+	height: 385px;
+	margin-left:0px;
+	background-image:url(biblio/fond.jpg);
+	background-size: cover ;
+	font-family: 'Mina', sans-serif;	
+}
+
+.art1 p {
+	margin-top:8%;
+	text-align:center;
+	font-size: 2em;
+	color:#1B211F;
+	text-decoration;bold;
+	font-family: 'Mina', sans-serif;
+	text-shadow: 1px 1px 1.5px blue;
+}
+
+
+.art3 {
+	flex-basis:100%;
+    height:600px;
+	background-color:rgba(38, 59, 106, 1);
+	font-size:118%;
+	justify-content:space-around;
+	font-family: 'Mina', sans-serif;
+}
+
+.art3txt {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+font-family: 'Mina', sans-serif;	
+}
+	
+.art3txt p {
+	font-size: 22px;
+	font-family: 'Mina', sans-serif;
+}
+
+
+.art4 {
+	flex-basis:85%;
+	height:600px;
+	background-image:url(biblio/mesdessins.jpg);
+	background-size: cover ;
+	background-attachment: scroll;
+	font-family: 'Mina', sans-serif;
+}
+.art5 {
+	flex-basis:50%;
+    height:650px;
+	font-family: 'Mina', sans-serif;
+	background-image:url(biblio/fond2.jpg);
+}
+
+.art6 {
+	flex-basis:50%;
+	height:650px;
+	background-color:rgba(38, 59, 106, 1);
+}
+
+.art6 p {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 1%;
+	font-family: 'Mina', sans-serif;
+	font-size:111%;
+}
+
+.art7 {
+	flex-basis:100%;
+	height:450px;
+	background-color:rgba(38, 59, 106, 1);
+	font-size:130%;
+	font-family: 'Mina', sans-serif;
+	
+}
+
+.car1 {
+	flex-basis:100%;
+	height:460px;
+	background-color:rgba(38, 59, 106, 1);
+	font-size:135%;
+	font-family: 'Mina', sans-serif;
+}
+
+.car2 {
+	flex-basis:100%;
+	height:460px;
+	background-color:rgba(38, 59, 150, 1);
+	font-size:120%;
+	font-family: 'Mina', sans-serif;
+}
+
+.car2 p{
+	margin-top:55px;
+}
+
+.car3 {
+	flex-basis:100%;
+	height:460px;
+	background-color:rgba(38, 59, 106, 1);
+	font-size:150%;
+	font-family: 'Mina', sans-serif;
+}
+.car3 p{
+	margin-top:55px;
+}
+.car1im {
+	flex-basis:100%;
+	height:550px;
+	background-image:url(biblio/car1im.jpg);
+	background-size: cover ;
+}
+
+.car2im {
+	flex-basis:100%;
+	height:550px;
+	background-image:url(biblio/carim3.jpg);
+}
+
+.car3im {
+	flex-basis:100%;
+	height:550px;
+	background-image:url(biblio/car2im.jpg);
+}
+
+
+
+h3{
+	font-size:1.90em;
+	text-align:center;
+	text-decoration:none;
+	font-family: 'Catamaran', sans-serif;
+}
+
+h3 a{ 
+color: black;
+font-family: 'Catamaran', sans-serif;
+}
+
+
+h6{
+	font-size:1.90em;
+	text-align:center;
+	text-decoration:none;
+	font-family: 'Catamaran', sans-serif;
+	margin-bottom: 2px;
+}
+   
+
+#masection {
+	display:flex;
+justify-content:space-around
+}
+
+header{
+	margin:0;
+	padding: 20px;
+}
+
+#masection2 {
+display:flex;
+justify-content:space-around
+}
+
+#masection4 {
+display:flex;
+justify-content:space-around
+}
+
+#masection5 {
+display:flex;
+justify-content:space-around
+}
+
+#masection6 {
+display:flex;
+justify-content:space-around
+}
+
+#masection3 {
+display:flex;
+}
+
+
+#footer{
+	flex-basis:95%;
+	height:100px;
+	box-shadow: 3px 3px 6px rgba(255,255,255,0.30);
+	background-color:rgba(255, 255, 255, 0.30);
+	text-align:center;
+}
+
+#footer p {
+	margin-top: 0px;
+	font-size:1.90em;
+	text-align:center;
+	text-decoration:none;
+	font-family: 'Catamaran', sans-serif;
+	
+}
+
+#miseenpagediverse {
+	margin-left: 15%;
+}
+
+
+.boutons{
+	margin-right:50%;
+	font-family: 'Mina', sans-serif;
+}
+
+.mainpage{
+	display: flex;
+	justify-content: space-around;
+}
+.mainpage a{
+	font-size: 150%;
+	margin-bottom: 1%;
+	text-align: center;
+	background-color:#171763;
+	width: calc(100% / 4 - 5px);
+	box-sizing: border-box;
+	padding: 0.5% 0.5%;
+	text-decoration: none;
+	color:white;
+	margin-bottom:6px;
+}
+
+.boutons{
+	margin-right:50%;
+}
+
+.mainpage{
+	display: flex;
+	justify-content: space-around;
+}
+.mainpage a{
+	font-size: 100%;
+	margin-bottom: 1%;
+	text-align: center;
+	background-color:rgba(38, 59, 106, 1);
+	width: calc(100% / 4 - 0px);
+	box-sizing: border-box;
+	color:white;
+	margin-bottom:14px;
+	height: 35px;
+	font-weight : bold;
+	border:solid 1px black;
+}
+header{
+	background-color:#1B211F;
+	height: 200%;
+	color:white;
+	padding: 1px;
+}
+
+h1{
+	margin-left:15%;
+	font-weight : normal;
+	font-family: 'Catamaran', sans-serif;
+	text-shadow: 1px 1px 2px blue;
+	font-weight: 800;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+
+header img {
+    height: 185px;
+	width:350px;
+    float: right;
+    margin-right: 18%;
+    margin-top: 1%;
+    border: 2px solid black;
+    border-radius: 5px;
+}

@@ -1,0 +1,252 @@
+ article{
+	flex-basis:30%;
+}
+
+body {
+	font-family: Trattatello;                  
+	background-image:url(image/suede.jpg);
+	background-size: cover ;
+	margin-left:100px;
+	margin-right:100px;
+	}
+
+.art2 {
+	text-align:center;
+}
+
+.art1 {
+	flex-basis:45%;
+	width: 800px;
+	height: 450px;
+	box-shadow:10px ;
+	padding-right:2%;
+	padding-left:2%;
+	background-color:rgba(192, 189, 189, 0.92);
+}
+
+.art1 img{
+	width: 255px;
+	height:300px;
+	float: right;
+	justify-content: space-around;
+}
+
+.art1 p{ 
+margin-top:60px;
+}
+
+
+.art3 {
+	flex-basis:40%;
+    height:325px;
+	background-color:rgba(192, 189, 189, 0.92);
+}
+
+.art3txt {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+	
+.art3txt p {
+	font-size: 22px;
+}
+
+
+.art4 {
+	flex-basis:60%;
+	height:325px;
+	background-color:rgba(192, 189, 189, 0.92);
+
+}
+.art5 {
+	flex-basis:50%;
+    height:450px;
+	background-color:rgba(192, 189, 189, 0.92);
+	font-size: 1.15em;
+}
+.art5 p{
+	font-size: 1.15em;
+	margin-top:50px;
+}
+
+.art6 {
+	flex-basis:50%;
+	height:450px;
+	background-color:rgba(192, 189, 189, 0.92);
+	font-size: 1.15em;
+}
+.art6 p {
+	font-size: 1.15em;
+	margin-top:50px;
+}
+
+.grandpre{ 
+font-size:4.5em;
+float:right;
+padding-left:155px;
+color:white;
+text-shadow: black 0.1em 0.1em 0.2em
+}
+
+h2{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+}
+
+h3{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+}
+
+h3 a{ 
+color: black;
+}
+
+h4{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+}
+
+h5{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+	margin-top: 20px;
+	margin-bottom:35px;
+}
+
+h6{
+	font-family: Trattatello;
+	font-size:2.3em;
+	text-align:center;
+	margin-top: 20px;
+	margin-bottom:35px;
+}
+   
+#masection {
+	display:flex;
+	margin-bottom:0px;
+}
+
+header{
+	margin:0;
+	padding: 20px;
+}
+
+#masection2 {
+display:flex;
+}
+
+.RetT {
+	float:left;
+	margin-left:120px;
+	border:1px;
+}
+
+}
+.humaines{
+    width: 20%;
+    height: 50%;
+    justify-content: center;
+	float:right;
+	margin-left:500px;
+}
+
+#masection3 {
+display:flex;
+}
+
+.mainfooter{
+	flex-basis:95%;
+	height:100px;
+	box-shadow:10px ;
+	background:white;
+	border-radius: 2px;
+	background-color:white;
+    justify-content:space-around;
+	background-color:rgba(192, 189, 189, 0.92);
+	color:black;
+}
+
+#miseenpageglobale{
+	 width: 90%;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 3px 4px;
+    margin-top: 5%;
+	margin-left: -8%;
+	margin-right:0%;	
+	font-size:20px;
+}
+
+.compétence6 {
+	list-style-type: none;
+}
+
+.sports {
+	font-size:20px;
+}
+
+.langue {
+	font-size:20px;
+}
+
+.Hobbys {
+	font-size:20px;
+}
+
+#miseenpagediverse {
+	margin-left: 15%;
+}
+
+.exppro1 {
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+.exppro2 {	
+	padding-right:3%;
+	padding-left:3%;
+	padding-top: 2%;
+}
+
+
+
+.exppro1 {
+	font-size: 1.5em;
+}
+
+.exppro2 {
+	font-size: 1.5em;
+}
+
+.mainfooter {
+	text-align: center;
+	font-size: 4em;
+}
+
+#transition0 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-color:rgba(255, 255, 255, 0);
+}
+#transition1 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-color:rgba(255, 255, 255, 0);
+}
+#transition2 {
+		display:flex;
+		justify-content:space-around;
+		height: 50px;
+		background-color:rgba(255, 255, 255, 0);
+}
